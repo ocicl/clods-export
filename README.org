@@ -1,0 +1,10 @@
+* clods-export
+
+Common Lisp OpenDocument spreadsheet export library
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/jlahd/clods-export.git   |
+| commit  | 5b7bf1b  |
+| systems | clods-export |
+|---------+-------------------------------------------|
+
